@@ -1,0 +1,27 @@
+ body{
+    background-image: url("images/mac-os-x-snow-leopard-wallpapers-hd-wallpaper-cave-1.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: cover;
+    background-position: ;
+    
+}
+
+button {
+    background: rgb(189, 16, 175);
+    font-family: 'Times New Roman', Times, serif;
+    /* height: 150x;
+    width: 150px; */
+    box-shadow: blueviolet;
+  }
+
+.Enemy{
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
+.Ship{
+    justify-content: flex-start;
+    align-items: center;
+}
+ */
